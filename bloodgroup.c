@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 void main()
+
 {
-  char Name[100], G[10], answer[20];
+  char Name[100], G[7], answer[10];
   int i;
   do
   {
